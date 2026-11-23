@@ -217,7 +217,7 @@ const Hero = () => {
       "
     >
       <img
-        src="https://res.cloudinary.com/mml2kzam/image/upload/v1795347286/1716060140749.jpg"
+        src="https://res.cloudinary.com/mml2kzam/image/upload/v1795347239/kp-portfolio.png"
         alt="KrishnaPal Lodhi"
         className="
           w-full

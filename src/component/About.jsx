@@ -103,7 +103,7 @@ const About = () => {
                 <div className="bg-[#0B1120] border border-cyan-400/20 rounded-2xl p-5 hover:border-cyan-400/60 hover:-translate-y-2 transition-all duration-300">
                   <FaCode className="text-cyan-400 text-3xl mb-3" />
                   <h4 className="text-white font-bold text-lg">
-                    Java & DSA
+                    python & DSA
                   </h4>
                   <p className="text-gray-500 text-sm mt-2">
                     Problem solving and algorithmic thinking

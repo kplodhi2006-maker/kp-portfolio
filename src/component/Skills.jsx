@@ -10,6 +10,7 @@ import {
   FaGitAlt,
   FaGithub,
   FaBootstrap,
+  FaPython,
 } from "react-icons/fa";
 import {
   SiTailwindcss,
@@ -52,7 +53,7 @@ const Skills = () => {
       skills: [
         { name: "C", icon: <SiC /> },
         { name: "C++", icon: <SiCplusplus /> },
-        { name: "Java", icon: <FaJava /> },
+        { name: "python", icon: <FaPython /> },
         { name: "JavaScript", icon: <FaJs /> },
         { name: "TypeScript", icon: <SiTypescript /> },
       ],
