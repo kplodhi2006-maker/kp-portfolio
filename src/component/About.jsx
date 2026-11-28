@@ -51,7 +51,7 @@ const About = () => {
                 </p>
 
                 <h3 className="text-3xl sm:text-4xl font-black mb-6">
-                  I'm <span className="text-cyan-400">KrishnaPal Lodhi</span>,
+                  I'm <span className="text-cyan-400">Krishnapal Lodhi</span>,
                   a passionate Computer Science student.
                 </h3>
 

@@ -53,7 +53,7 @@ const Navbar = () => {
           onClick={() => setOpen(false)}
           className="text-3xl font-black text-white cursor-pointer hover:scale-105 transition-all duration-300"
         >
-          KrishnaPal Lodhi<span className="text-cyan-400">.</span>
+          Krishnapal Lodhi<span className="text-cyan-400">.</span>
         </a>
 
         {/* Desktop Links */}

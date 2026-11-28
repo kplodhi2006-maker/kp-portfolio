@@ -31,7 +31,7 @@ const Hero = () => {
             <div className="absolute -inset-4 bg-blue-500/15 blur-[50px] rounded-full"></div>
 
             <h1 className="relative text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-black leading-tight">
-              KrishnaPal{" "}
+              Krishnapal{" "}
               <span className="text-cyan-400">Lodhi</span>
             </h1>
           </div>
@@ -68,7 +68,7 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 sm:gap-6">
           <a
                   href="/kp_cv.pdf"
-                  // href="https://portfolio-shivam-suk3.onrender.com/cv/view"
+        
                   target="_blank"
                   rel="noopener noreferrer"
                   className="
@@ -136,7 +136,7 @@ const Hero = () => {
               <img
               src="https://res.cloudinary.com/mml2kzam/image/upload/v1795347239/kp-portfolio.png"
 
-                alt="Krishna Pal"
+                alt="KrishnaPal"
                 className="
                   w-full h-full rounded-full object-cover
                   border-[6px] border-[#0B1120]
